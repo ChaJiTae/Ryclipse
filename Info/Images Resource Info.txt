@@ -1,0 +1,33 @@
+IntroBackground : 1280*720
+exitButton : 30*30
+menubar : 1280*30
+
+startButtonBasic : 400*100
+startButtonEntered: 400*100
+quitButtonBasic : 400*100
+quitButtonEntered: 400*100
+
+backButtonBasic : 50*50
+backButtonEntered : 50*50
+
+앨범사진 (화면 이동 전, 하이라이트) :  600*450
+앨범사진 (화면 이동 후) : 1280*720
+음악titleimage : 600*120
+
+leftButtonBasic : 60*60
+leftButtonEntered : 60*60
+rightButtonBasic : 60*60
+rightButtonEntered : 60*60
+
+easyButtonBasic : 250*67
+easyButtonEntered : 250*67
+hardButtonBasic : 250*67
+hardButtonEntered : 250*67
+
+gameInfo : 1280*60
+judgementLind : 1280*40
+
+noteBasic : 100*40
+noteRoute : 100*630
+noteRoutePressed : 100*630
+noteRouteLine : 4*630
